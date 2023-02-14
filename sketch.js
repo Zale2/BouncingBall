@@ -3,8 +3,8 @@ function setup() {
 }
 
 let rad = 50;
-let ax= 4;
-let ay = 1;
+let ax= 6;
+let ay = 3;
 var xcord= 30;
 var ycord= 50;
 
